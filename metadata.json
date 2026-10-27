@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS - Personal Productivity System",
+  "description": "Unified productivity workspace synchronizing smart tasks, habit tracking, calendar schedules, focus sessions, and goal milestones with live analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
